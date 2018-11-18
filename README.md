@@ -5,7 +5,7 @@
 1. Open Cmd Navigate into backend folder and run npn I 
 2. run node server.js 
 3. Navigate into frontend and run npm I
-4. run npm run sevre
+4. run npm run serve
 5. create a folder to track in C:\
 6. open browse and go to http://localhost:8080/
 7. log in with "user@user" password "1234"
