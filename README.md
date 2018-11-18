@@ -2,8 +2,8 @@
 
 ## Project setup
 ```
-1.download or clone the project 
-2.  Open Cmd Navigate into backend folder and run npn I 
+1. download or clone the project 
+2. Open Cmd Navigate into backend folder and run npn I 
 3. run node server.js 
 4. Navigate into frontend and run npm I
 5. run npm run serve
